@@ -15,16 +15,17 @@ Artbit.io - медиаблокчейна для ценителей искусс�
 - Golos Platform
 
 
-## Installation Guide
-
+## Установка
+{code}
 apt-get install git docker python-pip docker
 pip install docker-compose
 git clone https://github.com/janerobot/artbit.git
 cd artbit
 docker-compose up
+{code}
 
 
-Artbit.io
+## Artbit.io
 
 Try Artbit.io now at http://artbit.io
 
