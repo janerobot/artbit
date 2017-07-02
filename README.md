@@ -16,13 +16,13 @@ Artbit.io - медиаблокчейна для ценителей искусс�
 
 
 ## Установка
-{code}
+'''bash
 apt-get install git docker python-pip docker
 pip install docker-compose
 git clone https://github.com/janerobot/artbit.git
 cd artbit
 docker-compose up
-{code}
+'''
 
 
 ## Artbit.io
