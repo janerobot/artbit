@@ -27,5 +27,7 @@ Artbit.io - медиаблокчейна для ценителей искусс�
 
 ## Artbit.io
 
+Description on [Wiki](https://github.com/janerobot/artbit/wiki/Arbit.io)
+
 Try Artbit.io now at http://artbit.io
 
