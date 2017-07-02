@@ -16,7 +16,7 @@ Artbit.io - медиаблокчейна для ценителей искусс�
 
 
 ## Установка
-'''bash
+'''javascript
 apt-get install git docker python-pip docker
 pip install docker-compose
 git clone https://github.com/janerobot/artbit.git
